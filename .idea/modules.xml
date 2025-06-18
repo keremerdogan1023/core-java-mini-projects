@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AtmProgram/AtmProgram.iml" filepath="$PROJECT_DIR$/AtmProgram/AtmProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/CompoundInterestCalculator/CompoundInterestCalculator.iml" filepath="$PROJECT_DIR$/CompoundInterestCalculator/CompoundInterestCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiceRoller/DiceRoller.iml" filepath="$PROJECT_DIR$/DiceRoller/DiceRoller.iml" />
       <module fileurl="file://$PROJECT_DIR$/MadLibsGame/MadLibsGame.iml" filepath="$PROJECT_DIR$/MadLibsGame/MadLibsGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberGuessingGame/NumberGuessingGame.iml" filepath="$PROJECT_DIR$/NumberGuessingGame/NumberGuessingGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/ShoppingCartProgram/ShoppingCartProgram.iml" filepath="$PROJECT_DIR$/ShoppingCartProgram/ShoppingCartProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/TemperatureConverter/TemperatureConverter.iml" filepath="$PROJECT_DIR$/TemperatureConverter/TemperatureConverter.iml" />
       <module fileurl="file://$PROJECT_DIR$/WeightConverter/WeightConverter.iml" filepath="$PROJECT_DIR$/WeightConverter/WeightConverter.iml" />
