@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/DiceRoller/DiceRoller.iml" filepath="$PROJECT_DIR$/DiceRoller/DiceRoller.iml" />
       <module fileurl="file://$PROJECT_DIR$/MadLibsGame/MadLibsGame.iml" filepath="$PROJECT_DIR$/MadLibsGame/MadLibsGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/NumberGuessingGame/NumberGuessingGame.iml" filepath="$PROJECT_DIR$/NumberGuessingGame/NumberGuessingGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuizGame/QuizGame.iml" filepath="$PROJECT_DIR$/QuizGame/QuizGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RockPaperScissorsGame/RockPaperScissorsGame.iml" filepath="$PROJECT_DIR$/RockPaperScissorsGame/RockPaperScissorsGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/ShoppingCartProgram/ShoppingCartProgram.iml" filepath="$PROJECT_DIR$/ShoppingCartProgram/ShoppingCartProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/TemperatureConverter/TemperatureConverter.iml" filepath="$PROJECT_DIR$/TemperatureConverter/TemperatureConverter.iml" />
       <module fileurl="file://$PROJECT_DIR$/WeightConverter/WeightConverter.iml" filepath="$PROJECT_DIR$/WeightConverter/WeightConverter.iml" />
